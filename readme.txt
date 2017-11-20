@@ -7,4 +7,4 @@ WWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 last
 haha hahahah
 checkout
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
